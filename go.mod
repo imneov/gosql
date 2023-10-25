@@ -1,4 +1,4 @@
-module github.com/eatonphil/gosql
+module "github.com/imneov/gosql
 
 go 1.13
 
@@ -9,4 +9,5 @@ require (
 	github.com/olekukonko/tablewriter v0.0.4
 	github.com/petar/GoLLRB v0.0.0-20190514000832-33fb24c13b99
 	github.com/stretchr/testify v1.5.1
+	golang.org/x/sys v0.13.0 // indirect
 )

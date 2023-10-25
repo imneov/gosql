@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/eatonphil/gosql"
+	"github.com/imneov/gosql"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/eatonphil/gosql"
+	"github.com/imneov/gosql"
 )
 
 var inserts = 0

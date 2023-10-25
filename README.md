@@ -55,7 +55,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	_ "github.com/eatonphil/gosql"
+	_ "github.com/imneov/gosql"
 )
 
 func main() {

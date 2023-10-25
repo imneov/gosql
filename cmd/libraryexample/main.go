@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/eatonphil/gosql"
+	"github.com/imneov/gosql"
 )
 
 func main() {
